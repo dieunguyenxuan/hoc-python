@@ -1,0 +1,7 @@
+can bac 2: a**(1/b)
+interpreter : trinh thong dich - Cpython, Jython, Pypy
+/ - slash
+\ - backslash  --> string escape --> print ky tu dac biet
+\n newline
+\t tab
+|  - pipeline
