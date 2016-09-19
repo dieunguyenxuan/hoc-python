@@ -5,3 +5,5 @@ interpreter : trinh thong dich - Cpython, Jython, Pypy
 \n newline
 \t tab
 |  - pipeline
+print(r 'C:\abc\nmc') --> r in duoi dang raw
+"""<string> """ bieu dien string nhieu dong, tu xuong dong khong can go \n
