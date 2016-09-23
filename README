@@ -1,2 +1,2 @@
-test
-test 2
+# cách Setup python 3 mặc đinh trên ubuntu
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 10
